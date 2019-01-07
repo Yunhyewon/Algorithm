@@ -7,7 +7,6 @@ public class backjoon_2947 {
 		Scanner input = new Scanner(System.in);
 
 		inputstr = input.nextLine();
-
 		String[] tempStr = null;
 		for (int i = 0; i < inputstr.length(); i++) {
 			tempStr = inputstr.split(" ");

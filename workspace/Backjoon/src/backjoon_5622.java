@@ -7,7 +7,6 @@ public class backjoon_5622 {
 		Scanner input = new Scanner(System.in);
 
 		inputstr = input.nextLine();
-		
 		String[] tempStr = null;
 		int time=0;
 		

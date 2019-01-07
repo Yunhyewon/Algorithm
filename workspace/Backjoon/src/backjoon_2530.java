@@ -5,9 +5,10 @@ public class backjoon_2530 {
 		String currenttime = null;
 		int cooktime = 0;
 		Scanner input = new Scanner(System.in);
-
+		
 		currenttime = input.nextLine();
 		cooktime = input.nextInt();
+		
 		int current_hour = 0; 
 		int current_minute = 0;
 		int current_second = 0;

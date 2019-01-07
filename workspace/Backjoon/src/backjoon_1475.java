@@ -13,7 +13,6 @@ public class backjoon_1475 {
 		for (int i = 0; i < roomnumber.length(); i++) {
 			temp = roomnumber.split("");
 		}
-		System.out.println(size);
 
 	}
 
